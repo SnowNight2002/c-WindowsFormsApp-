@@ -1,0 +1,11 @@
+C:\Users\85257\Desktop\sem1\4915\lab2\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\85257\Desktop\sem1\4915\lab2\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\85257\Desktop\sem1\4915\lab2\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\85257\Desktop\sem1\4915\lab2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\85257\Desktop\sem1\4915\lab2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\85257\Desktop\sem1\4915\lab2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmStudents.resources
+C:\Users\85257\Desktop\sem1\4915\lab2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\85257\Desktop\sem1\4915\lab2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\85257\Desktop\sem1\4915\lab2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\85257\Desktop\sem1\4915\lab2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\85257\Desktop\sem1\4915\lab2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
