@@ -1,0 +1,12 @@
+C:\Users\85257\Desktop\sem1\4915\lab4\Windows Application\Windows Application\bin\Debug\Database.accdb
+C:\Users\85257\Desktop\sem1\4915\lab4\Windows Application\Windows Application\bin\Debug\Windows Application.exe.config
+C:\Users\85257\Desktop\sem1\4915\lab4\Windows Application\Windows Application\bin\Debug\Windows Application.exe
+C:\Users\85257\Desktop\sem1\4915\lab4\Windows Application\Windows Application\bin\Debug\Windows Application.pdb
+C:\Users\85257\Desktop\sem1\4915\lab4\Windows Application\Windows Application\obj\Debug\Windows Application.csproj.AssemblyReference.cache
+C:\Users\85257\Desktop\sem1\4915\lab4\Windows Application\Windows Application\obj\Debug\Windows Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\85257\Desktop\sem1\4915\lab4\Windows Application\Windows Application\obj\Debug\Windows_Application.Form1.resources
+C:\Users\85257\Desktop\sem1\4915\lab4\Windows Application\Windows Application\obj\Debug\Windows_Application.Properties.Resources.resources
+C:\Users\85257\Desktop\sem1\4915\lab4\Windows Application\Windows Application\obj\Debug\Windows Application.csproj.GenerateResource.cache
+C:\Users\85257\Desktop\sem1\4915\lab4\Windows Application\Windows Application\obj\Debug\Windows Application.csproj.CoreCompileInputs.cache
+C:\Users\85257\Desktop\sem1\4915\lab4\Windows Application\Windows Application\obj\Debug\Windows Application.exe
+C:\Users\85257\Desktop\sem1\4915\lab4\Windows Application\Windows Application\obj\Debug\Windows Application.pdb
